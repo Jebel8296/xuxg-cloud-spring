@@ -13,6 +13,7 @@
 		<module>cloud-ribbon-consumer</module>
 		<module>cloud-user-service</module>
 		<module>cloud-zuul-gateway</module>
+		<module>cloud-config-server</module>
 	</modules>
 
 	<properties>
